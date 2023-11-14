@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628258291980",
+    "project_id": "mapsappsafa",
+    "storage_bucket": "mapsappsafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628258291980:android:87415a8a1cb6c54dea8929",
+        "android_client_info": {
+          "package_name": "com.example.etaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628258291980-lv2bihlvru3k7a3981kqacu58geskd3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-NvbWL3K3LiOGCNAF9GMHbHtGs1NmI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628258291980-lv2bihlvru3k7a3981kqacu58geskd3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
